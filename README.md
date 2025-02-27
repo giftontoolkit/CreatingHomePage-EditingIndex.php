@@ -6,4 +6,4 @@ We just wrote **heading**, **paragraph** in `index.php` and css classes are writ
 
 # Output
 
-![Output image for this repo](/v1/images/index.jpg)
+![Output image for this repo](/images/index.jpg)
