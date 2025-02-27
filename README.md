@@ -4,7 +4,7 @@
 
 We just wrote **heading**, **paragraph** in `index.php` and css classes are written in `style.css`
 
-```console
+```ruby
 <header class="landing-header">
         <div class="container">
             <h1>Welcome to GIFTON</h1>
